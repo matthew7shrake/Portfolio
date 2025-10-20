@@ -1,5 +1,4 @@
 # Matthew Shrake - Portfolio
-
 # <small>
 My name is Matthew Shrake, and I am a student at Brandeis University pursuing a Master of Science degree in Business Analytics with a concentration in Sports Analytics. In this program, I am rapidly advancing my abilities in Python, R, SQL, and more. I have also co-founded a Sports Analytics Club to heighten my engagement in the discipline.
 
